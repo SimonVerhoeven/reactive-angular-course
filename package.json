@@ -24,7 +24,7 @@
     "@angular/platform-browser": "22.1.0",
     "@angular/platform-browser-dynamic": "22.1.0",
     "@angular/router": "22.2.1",
-    "body-parser": "^1.20.8",
+    "body-parser": "^1.20.9",
     "core-js": "^2.4.1",
     "express": "^4.22.3",
     "moment": "^2.31.0",
